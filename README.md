@@ -1,2 +1,2 @@
 # Slither
- A general purpose DIscord bot for a private server
+ A general purpose Discord bot for a private server
